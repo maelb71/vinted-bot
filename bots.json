@@ -1,0 +1,7 @@
+[
+    {
+        "name": "androz",
+        "token": "process.env.VINTED_BOT_TOKEN",
+        "adminIDs": "448517544584675330"
+    }
+]
